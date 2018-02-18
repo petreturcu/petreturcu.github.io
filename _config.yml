@@ -1,3 +1,4 @@
+name: Petre Turcu
 plugins:
   - jekyll-remote-theme
 remote_theme: "mmistakes/minimal-mistakes"
