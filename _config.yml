@@ -4,11 +4,11 @@ minimal_mistakes_skin: "contrast"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "petreturcu.github.io"
+title                    : "petreturcu.com"
 title_separator          : "-"
 name                     : "Petre Turcu"
 description              : "An amazing website."
-url                      : "https://petreturcu.github.io"
+url                      : "https://petreturcu.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "petreturcu/petreturcu.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
