@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Petre Turcu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : ".NET Software Development"
   location         : "Manchester UK"
   email            :
