@@ -87,9 +87,9 @@ analytics:
 author:
   name             : "Petre Turcu"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : ".NET Software Development"
+  bio              : ".NET Software Engineer"
   location         : "Manchester UK"
-  email            :
+  email            : "password@yopmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
