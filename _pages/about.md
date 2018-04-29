@@ -1,5 +1,9 @@
 ---
 permalink: /about/
+title: "About"
+excerpt: "Freelance .NET Software Engineer"
 ---
 
-# This is an about page
+I am a freelance software engineer based in Manchester, UK. My expertise is mainly on the Microsoft stack, having a full stack exposure to both greenfield and legacy systems.
+
+I am passionate about readable, clean and easily maintainable code, especially in a DevOps culture.
