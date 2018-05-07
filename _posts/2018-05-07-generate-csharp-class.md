@@ -4,12 +4,8 @@ categories:
   - reminder
 tags:
   - generate
-  - c#
-  - sql
-  - xml
-  - json
 ---
-SQL code amended from https://stackoverflow.com/questions/5873170/generate-class-from-database-table with comments considerations.
+SQL code amended from [Stackoverflow answer][so-sql-answer] with comments considerations.
 
 ```sql
 declare @TableName sysname = 'TableName'
@@ -74,3 +70,5 @@ set @Result = @Result  + '
 
 print @Result
 ```
+
+[so-sql-answer]: https://stackoverflow.com/questions/5873170/generate-class-from-database-table
