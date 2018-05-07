@@ -1,5 +1,5 @@
 ---
-title: "Generate C# class definition from JSON, XML, SQL Server Table"
+title: "Generate C# class definition from SQL Server Table"
 categories:
   - reminder
 tags:
