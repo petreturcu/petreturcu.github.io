@@ -5,7 +5,7 @@ categories:
 tags:
   - generate
 ---
-SQL code amended from [Stackoverflow answer][so-sql-answer] with comments considerations.
+SQL code amended from [stackoverflow][so-sql-answer] with comments considerations.
 
 ```sql
 declare @TableName sysname = 'TableName'
