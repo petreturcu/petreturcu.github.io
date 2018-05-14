@@ -7,7 +7,7 @@ tags:
   - draft
   - learn
 ---
-A reminder of conferences with a software development focus and some video sources where available.
+Conferences with a software development focus and video sources where available.
 ## Microsoft Tech.Ed
 ## QCon
 ## DevConnections
