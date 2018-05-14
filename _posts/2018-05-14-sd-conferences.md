@@ -17,7 +17,7 @@ A reminder of conferences with a software development focus and some video sourc
 ## [Microsoft BUILD](https://developer.microsoft.com/en-us/events/build/content)
 [YouTube](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
 ## [NDC](https://ndcconferences.com) 
-[YouTube](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q) 
+[YouTube](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
 [Vimeo](https://vimeo.com/ndcconferences)
 ## DevWeek
 ## SDD
