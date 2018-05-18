@@ -12,3 +12,6 @@ tags:
 
 ## Domain Driven Design
 [Domain Driven Design: The Good Parts - Jimmy Bogard - NDC 2016](https://youtu.be/U6CeaA-Phqo)
+
+## Microservices
+[Avoiding Microservice Megadisasters - Jimmy Bogard - NDC 2017](https://youtu.be/gfh-VCTwMw8)
