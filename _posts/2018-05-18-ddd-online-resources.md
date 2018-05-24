@@ -8,3 +8,4 @@ tags:
   - learn
 ---
 [DDD The Good Parts Jimmy Bogard @NDC 2016](https://youtu.be/U6CeaA-Phqo)
+[Creating Domain-Driven Design entity classes with Entity Framework Core Jon Smith](https://www.thereformedprogrammer.net/creating-domain-driven-design-entity-classes-with-entity-framework-core/)
