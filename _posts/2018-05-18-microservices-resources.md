@@ -7,7 +7,7 @@ categories:
 tags:
   - learn
 ---
-[My Microservices FAQ - Jimmy Bogard](https://jimmybogard.com/my-microservices-faq/)
+[My Microservices FAQ - Jimmy Bogard](https://jimmybogard.com/my-microservices-faq/)  
 [Avoiding Microservice Megadisasters - Jimmy Bogard @NDC2017](https://youtu.be/gfh-VCTwMw8)  
   
 [MonolithFirst - Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html)  
