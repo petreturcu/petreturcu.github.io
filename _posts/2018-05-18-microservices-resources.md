@@ -14,3 +14,7 @@ tags:
 [Don't start with a monolith - Stefan Tilkov](https://martinfowler.com/articles/dont-start-monolith.html)  
 [MicroservicePremium - Martin Fowler](https://martinfowler.com/bliki/MicroservicePremium.html)  
 [MicroservicePrerequisites - Martin Fowler](https://martinfowler.com/bliki/MicroservicePrerequisites.html)
+
+[Mono Repo vs Multiple Repos - Avi Cavale](http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository)   
+[7 Things to Consider - Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices)   
+[Why Adopt Microservices - Manisha Sahasrabudhe](http://blog.shippable.com/why-you-should-adopt-microservices)
